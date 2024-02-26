@@ -1,0 +1,70 @@
+
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#terminal width 511
+
+Sun Feb 25 20:44:27.918 UTC
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#terminal length 0
+
+Sun Feb 25 20:44:28.244 UTC
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#configure terminal
+
+Sun Feb 25 20:44:30.374 UTC
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#no interface Loopback0
+
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#commit
+
+Sun Feb 25 20:44:31.613 UTC
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#
+
+RP/0/RP0/CPU0:ios(config)#end
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#show running-config interface Loopback0
+
+Sun Feb 25 20:44:34.090 UTC
+% No such configuration item(s)
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#
+
+RP/0/RP0/CPU0:ios#exit
